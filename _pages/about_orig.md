@@ -1,7 +1,7 @@
 ---
-permalink: /
+permalink: /old
 title: "Jingshu's Homepage"
-excerpt: "About me"
+excerpt: "About me old"
 author_profile: true
 redirect_from: 
   - /about/
