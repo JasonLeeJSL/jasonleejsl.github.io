@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: 'https://jasonleejsl.github.io/'  #/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: 'https://jasonleejsl.github.io/' #/talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: 'https://jasonleejsl.github.io/' #/portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: 'https://jasonleejsl.github.io/' #/year-archive/
     
   - title: "CV"
-    url: 'http://academicpages.github.io/files/paper1.pdf' #/cv/
+    url: 'http://academicpages.github.io/files/CV_Jingshu_Li.pdf' #/cv/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
