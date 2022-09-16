@@ -4,8 +4,8 @@ title: "Jingshu's Homepage"
 excerpt: "About me old"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about_old/
+  - /about_old.html
 ---
 
 Bio
