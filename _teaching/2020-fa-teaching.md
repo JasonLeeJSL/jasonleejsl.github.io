@@ -8,5 +8,5 @@ date: 2020-08-01
 location: "Zhejiang, China"
 ---
 
-Teaching assistant for ECE220 and ECE374.
+Teaching assistant for ECE220 (Computer System and Programming) and ECE374 (Algorithm and Computational Model).
 

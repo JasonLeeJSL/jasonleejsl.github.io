@@ -8,5 +8,5 @@ date: 2021-02-01
 location: "Zhejiang, China"
 ---
 
-Teaching assistant for CS225.
+Teaching assistant for CS225 (Data Structure).
 

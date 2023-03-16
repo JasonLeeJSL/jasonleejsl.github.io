@@ -3,17 +3,17 @@ main:
   - title: "Publications"
     url: 'https://jasonleejsl.github.io/'  #/publications/
 
-  - title: "Talks"
-    url: 'https://jasonleejsl.github.io/' #/talks/    
+  #- title: "Talks"
+  #  url: 'https://jasonleejsl.github.io/' #/talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: 'https://jasonleejsl.github.io/' #/portfolio/
+  #- title: "Portfolio"
+  #  url: 'https://jasonleejsl.github.io/' #/portfolio/
         
-  - title: "Blog Posts"
-    url: 'https://jasonleejsl.github.io/' #/year-archive/
+  #- title: "Blog Posts"
+  #  url: 'https://jasonleejsl.github.io/' #/year-archive/
     
   - title: "CV"
     url: 'http://jasonleejsl.github.io/files/CV_Jingshu_Li.pdf' #/cv/
