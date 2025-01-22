@@ -17,7 +17,7 @@ At present, I am focusing on topics about human-AI decision making, behavioral c
 
 News
 =====
-* Jan. 2025: Three papers has been accepted by CHI2025! Thanks and congrats to my collaborators!
+* Jan. 2025: Three papers have been accepted by CHI2025! Thanks and congrats to my collaborators!
 * Jan. 2025: One paper has been accepted for presentation in the 75th ICA Conference!
 * Oct. 2024: Served as CHI2025 reviewer!
 * Nov. 2023: I have passed my QE with committee: [Prof. Chua Tat-Seng​](https://www.chuatatseng.com/) and [Prof. Brian Y. Lim](https://www.brianlim.net/).
