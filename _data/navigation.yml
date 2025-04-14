@@ -1,7 +1,9 @@
 # main links links
 main:
   - title: "Publications"
-    url: 'https://jasonleejsl.github.io/'  #/publications/
+    # url: 'https://jasonleejsl.github.io/'  #/publications/
+    url: /publications/
+
 
   #- title: "Talks"
   #  url: 'https://jasonleejsl.github.io/' #/talks/    
