@@ -17,6 +17,8 @@ At present, I am focusing on topics about human-AI decision making, behavioral c
 
 News
 =====
+* Sept. 2025: One paper has been accepted by International Journal of Human-Computer Studies (IJHCS).
+* Aug. 2025: One paper has been accepted by CSCW 2025.
 * Mar. 2025: Our CHI2025 paper "As Confidence Aligns: Understanding the Effect of AI Confidence on Human Self-confidence in Human-AI Decision Making" has been selected for a Best Paper Honorable Mention recognition at CHI 2025!
 * Jan. 2025: Three papers have been accepted by CHI2025! Thanks and congrats to my collaborators!
 * Jan. 2025: One paper has been accepted for presentation in the 75th ICA Conference!
