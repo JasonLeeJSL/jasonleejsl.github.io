@@ -28,7 +28,7 @@ This work is the first to systematically uncover how AI’s personality influenc
 ---
 
 ## Study 2: Alignment of AI Confidence and Users’ Self-confidence  
-In another study (published at **CHI 2025**), we focused on human–AI collaboration in decision-making. The experiment shows that users’ self-confidence is strongly influenced by the confidence level expressed by AI, leading to clear alignment effects that persist even after AI is no longer involved.  
+In another study (published at **CHI 2025**), we focused on human–AI collaboration in decision-making. The experiment shows that users’ self-confidence is influenced by and aligned with the confidence expressed by AI. Such alignment persists even after AI is no longer involved.  
 
 This alignment alters users’ confidence calibration, potentially causing over-reliance on AI or underestimation of their own abilities. Further results reveal that real-time feedback and different collaboration modes (e.g., AI as advisor, peer collaborator, or decision executor) can partially mitigate these effects.  
 
@@ -55,4 +55,4 @@ Looking ahead, we aim to expand this research from individual cognition to broad
 - **Design interventions and regulatory mechanisms**: Propose approaches such as transparent personality settings, dynamic confidence expression, and intelligent feedback mechanisms to balance user experience and autonomy.  
 - **Societal and security risks**: Address the potential misuse of human–AI alignment in **cognitive warfare** or **covert cognitive interventions**, where shaping users’ self-concept or confidence could manipulate opinions and behaviors. This highlights the urgent need to prevent misuse and safeguard cognitive autonomy and diversity in the age of AI.  
 
-From a broader perspective, the future of human–AI interaction is not just about **making AI more human-like**, but about **ensuring that AI coexists with human cognition in ways that protect psychological safety and social diversity**. By studying and regulating mechanisms of human alignment with AI, we can shape healthier and more responsible human–AI relationships, laying the groundwork for a sustainable and ethical future of human–AI coexistence.  
+From a broader perspective, the future of human–AI interaction is not just about **making AI more human-like**, but about **ensuring that AI coexists with human in ways that protect psychological safety and social diversity**. By studying and regulating mechanisms of human alignment with AI, we can shape healthier and more responsible human–AI relationships, laying the groundwork for a sustainable and ethical future of human–AI coexistence.  
