@@ -8,7 +8,7 @@ header:
   overlay_image: Hero_Figure.jpg
   overlay_filter: 0.3
 ---
-{% include base_path %}
+
 {% include publications-list.md %}
 
 {% if author.googlescholar %}
