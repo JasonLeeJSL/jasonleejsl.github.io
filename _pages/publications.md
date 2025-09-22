@@ -9,8 +9,4 @@ header:
   overlay_filter: 0.3
 ---
 
-{% include publications-list.md %}
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% include base_path %} {%- assign projects = site.research | sort: "date" | reverse -%} <div class="grid__wrapper"> {%- for post in projects -%} {%- include archive-single.html -%} {%- endfor -%} </div>
