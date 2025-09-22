@@ -1,8 +1,10 @@
 ---
-layout: archive
-title: "Research Project"
+title: "Research Projects"
 permalink: /research/
+layout: collection
+collection: research
 author_profile: true
+entries_layout: grid
 ---
 
 {% if author.googlescholar %}
