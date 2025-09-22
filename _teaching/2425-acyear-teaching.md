@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2425-ay-teaching
 venue: "SoC, NUS"
-date: 2024 Fall, 2025 Spring
+date: 2024
 location: "Singapore"
 ---
 
