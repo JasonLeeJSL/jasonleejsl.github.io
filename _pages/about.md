@@ -22,7 +22,7 @@ Research Projects
 
 <div class="entries">
   <div class="grid__wrapper">
-    {% assign projects = site.research | sort: "date" | reverse | slice: 0, 4 %}
+    {% assign projects = site.research | sort: "date" | reverse | slice: 0, 2 %}
     {% for post in projects %}
       {% include archive-single.html type="grid" %}
     {% endfor %}
