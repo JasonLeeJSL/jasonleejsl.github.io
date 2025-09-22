@@ -3,7 +3,6 @@ title: "Research Projects"
 permalink: /research/
 layout: archive
 author_profile: true
-entries_layout: list
 ---
 
 {% include base_path %}
