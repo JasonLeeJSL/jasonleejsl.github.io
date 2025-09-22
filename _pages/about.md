@@ -18,22 +18,6 @@ I am currently a Ph.D. candidate at the [AI4SG Lab](https://www.ai4sg.org/about)
 
 At present, I am focusing on topics about responsible AI and human-AI collaboration. I'm also working on promoting prosociality in HCI to build a harmonious Human-AI society.
 
-#Research Projects
-#=====
-
-#{% include base_path %}
-
-#<div class="entries">
-  #<div class="grid__wrapper">
-    #{% assign projects = site.research | sort: "date" | reverse | slice: 0, 2 %}
-    #{% for post in projects %}
-      #{% include archive-single.html type="grid" %}
-    #{% endfor %}
-  #</div>
-#</div>
-
-#<div style="clear: both;"></div>
-
 News
 =====
 * Sept. 2025: One paper has been accepted by International Journal of Human-Computer Studies (IJHCS).
