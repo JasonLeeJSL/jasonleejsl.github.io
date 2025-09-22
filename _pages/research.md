@@ -25,7 +25,7 @@ feature_row:
     url: "/research/project-a/"
     btn_label: "Read more"
     btn_class: "btn--primary"
-  - image_path: Project_Alignment.png
+  - image_path: Project_Alignment.jpg
     alt: "Project Alignment"
     title: "Humans Align with AI during Interaction"
     excerpt: "AI is assimilating human beings."
