@@ -32,7 +32,7 @@ These findings uncover the psychological mechanisms behind â€œhelping machinesâ€
 
 ---
 
-## Study 2: Extending Empathy to Animals via Chatbots (*IJHCS, accepted*)  
+## Study 2: Extending Empathy to Animals via Chatbots (*IJHCS*)  
 Building on these findings, our second study (accepted in the *International Journal of Human-Computer Studies*) applied empathy-driven design to **animal-persona chatbots**.  
 
 By equipping animal persona in chatbot interactions, we found that users developed stronger empathy and more positive attitudes toward animals. This demonstrates how HCI design can serve as a **mediator between humans and the non-human world**, fostering prosociality beyond human-AI boundaries.  
