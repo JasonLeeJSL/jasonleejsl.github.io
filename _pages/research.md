@@ -22,7 +22,7 @@ feature_row:
     alt: "Project Prosocial"
     title: "Building a Harmonious Human–AI Society through Prosociality"
     excerpt: "This project envisions a future of a harmonious human–AI society, built not only on efficiency and productivity but also on empathy, care, and cooperation—values traditionally reserved for human society, now extended to the broader non-human world."
-    url: {{ "/research/project-a/" | relative_url }}
+    url: "/research/project-a/"
     btn_label: "Read more"
     btn_class: "btn--primary"
 ---
