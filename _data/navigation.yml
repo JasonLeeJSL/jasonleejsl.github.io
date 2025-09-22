@@ -20,6 +20,8 @@ main:
     
   - title: "CV"
     url: 'http://jasonleejsl.github.io/files/CV_Jingshu_Li.pdf' #/cv/
-    
+
+  - title: "Research Project"
+    url: /research/   
   #- title: "Guide"
   #  url: /markdown/
