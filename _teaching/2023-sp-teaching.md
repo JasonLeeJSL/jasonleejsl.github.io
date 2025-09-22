@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/23-sp-teaching
 venue: "SoC, NUS"
-date: 2023
+date: 2023-01-01
 location: "Singapore"
 ---
 
