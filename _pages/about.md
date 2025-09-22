@@ -29,6 +29,8 @@ Research Projects
   </div>
 </div>
 
+<div style="clear: both;"></div>
+
 News
 =====
 * Sept. 2025: One paper has been accepted by International Journal of Human-Computer Studies (IJHCS).
