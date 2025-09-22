@@ -15,6 +15,18 @@ I am currently a Ph.D. candidate at the [AI4SG Lab](https://www.ai4sg.org/about)
 
 At present, I am focusing on topics about human-AI decision making, behavioral contagion, and altering users' cognitive process (especially metacognition) and behavior via AI agents. I'm also working on promoting prosociality in HCI.
 
+Research Projects
+=====
+
+<!-- 自动抓取 _research/ 中最新的 4 个项目。需要每个项目 front matter 里有 title/excerpt，
+     （可选）header.teaser 来显示缩略图。 -->
+<div class="entries-grid">
+  {% assign projects = site.research | sort: "date" | reverse | slice: 0, 4 %}
+  {% for post in projects %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
+
 News
 =====
 * Sept. 2025: One paper has been accepted by International Journal of Human-Computer Studies (IJHCS).
