@@ -2,8 +2,8 @@
 main:
   - title: "Publications"
     # url: 'https://jasonleejsl.github.io/'  #/publications/
-    # url: /publications/
-    url: https://scholar.google.com/citations?user=Of_3QEwAAAAJ&hl=en
+    url: /publications/
+    # url: https://scholar.google.com/citations?user=Of_3QEwAAAAJ&hl=en
 
 
   #- title: "Talks"
