@@ -2,6 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Graduate course"
+permalink: /teaching/23-sp-teaching
 venue: "SoC, NUS"
 date: 2023 Spring
 location: "Singapore"
