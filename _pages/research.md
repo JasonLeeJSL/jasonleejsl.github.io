@@ -6,9 +6,8 @@ author_profile: false          # Splash 通常不放侧栏
 classes: wide                  # 全宽更好看
 excerpt: "Selected and ongoing projects"
 
-# 顶部英雄横幅（可按需换图）
 header:
-  overlay_image: {{ "/images/Project_Prosocial.png" | relative_url }}
+  overlay_image: Project_Prosocial.png
   overlay_filter: 0.25
   caption: "Photo: Your credit"
   #actions:
@@ -18,9 +17,8 @@ header:
       #url: "https://scholar.google.com/"
       #icon: "fas fa-graduation-cap"
 
-# 精选项目（手动挑 2-3 个）
 feature_row:
-  - image_path: {{ "/images/Project_Prosocial.png" | relative_url }}
+  - image_path: Project_Prosocial.png
     alt: "Project Prosocial"
     title: "Building a Harmonious Human–AI Society through Prosociality"
     excerpt: "This project envisions a future of a harmonious human–AI society, built not only on efficiency and productivity but also on empathy, care, and cooperation—values traditionally reserved for human society, now extended to the broader non-human world."
