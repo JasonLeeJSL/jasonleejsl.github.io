@@ -3,9 +3,9 @@ title: "Building a Harmonious Human-AI Society through Prosociality"
 excerpt: "Using human-computer interaction design to elicit empathy and prosocial behaviors toward non-human entities—first with chatbots, then extending to animal personas—this project demonstrates how prosociality can guide the creation of a more cooperative and harmonious human-machine society."
 layout: single
 author_profile: true
-#header:
-  #overlay_image: /images/project-a.png
-  #overlay_filter: 0.3   # 透明度 (0~1)
+header:
+  overlay_image: /images/Project_Prosocial.png
+  overlay_filter: 0.3   # 透明度 (0~1)
 ---
 
 ## Background and Motivation  
