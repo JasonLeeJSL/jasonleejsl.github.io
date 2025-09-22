@@ -28,7 +28,7 @@ Through an online experiment with 244 participants, we manipulated chatbot **ide
 
 These findings uncover the psychological mechanisms behind “helping machines” and suggest design strategies for building chatbots that foster **cooperation, trust, and resilience** in human-AI collaboration.  
 
-👉 *Read the CSCW paper here:* Exploring the Effects of Chatbot Anthropomorphism and Human Empathy on Human Prosocial Behavior Toward Chatbots [https://doi.org/10.1145/3757596]
+👉 *Read the CSCW paper here:* [Exploring the Effects of Chatbot Anthropomorphism and Human Empathy on Human Prosocial Behavior Toward Chatbots](https://doi.org/10.1145/3757596)
 
 ---
 
@@ -39,7 +39,7 @@ By equipping animal persona in chatbot interactions, we found that users develop
 
 The study highlights how chatbots can be powerful tools for **conservation, environmental education, and public engagement**, showing that empathy mechanisms discovered in human-AI interaction can be applied to pressing social and ecological challenges.  
 
-👉 *Read the IJHCS paper here:* How Animal-Persona Chatbots Enhance Empathy and Positive Attitudes toward Animals[https://arxiv.org/abs/2411.06060]
+👉 *Read the IJHCS paper here:* [How Animal-Persona Chatbots Enhance Empathy and Positive Attitudes toward Animals](https://arxiv.org/abs/2411.06060)
 
 ---
 
