@@ -18,13 +18,15 @@ At present, I am focusing on topics about human-AI decision making, behavioral c
 Research Projects
 =====
 
-<!-- 自动抓取 _research/ 中最新的 4 个项目。需要每个项目 front matter 里有 title/excerpt，
-     （可选）header.teaser 来显示缩略图。 -->
-<div class="entries-grid">
-  {% assign projects = site.research | sort: "date" | reverse | slice: 0, 4 %}
-  {% for post in projects %}
-    {% include archive-single.html type="grid" %}
-  {% endfor %}
+{% include base_path %}
+
+<div class="entries">
+  <div class="grid__wrapper">
+    {% assign projects = site.research | sort: "date" | reverse | slice: 0, 4 %}
+    {% for post in projects %}
+      {% include archive-single.html type="grid" %}
+    {% endfor %}
+  </div>
 </div>
 
 News
