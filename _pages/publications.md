@@ -3,6 +3,9 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+header:
+  overlay_image: Hero_Figure.jpg
+  overlay_filter: 0.3
 ---
 
 {% if author.googlescholar %}
