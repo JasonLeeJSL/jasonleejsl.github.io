@@ -5,8 +5,8 @@ layout: list
 author_profile: true
 collection: research
 header:
-  teaser: /images/Project_Prosocial.png
-  overlay_image: /images/Project_Prosocial.png
+  teaser: Project_Prosocial.png
+  overlay_image: Project_Prosocial.png
   overlay_filter: 1   # 透明度 (0~1)
 ---
 
