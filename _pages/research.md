@@ -9,7 +9,7 @@ excerpt: "Selected and ongoing projects"
 header:
   overlay_image: Project_Prosocial.png
   overlay_filter: 0.25
-  caption: "Photo: Your credit"
+  #caption: "Photo: Your credit"
   #actions:
     #- label: "Get in touch"
       #url: "mailto:jingshu@u.nus.edu"
@@ -23,6 +23,13 @@ feature_row:
     title: "Building a Harmonious Human–AI Society through Prosociality"
     excerpt: "This project envisions a future of a harmonious human–AI society, built not only on efficiency and productivity but also on empathy, care, and cooperation—values traditionally reserved for human society, now extended to the broader non-human world."
     url: "/research/project-a/"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+  - image_path: Project_Alignment.png
+    alt: "Project Alignment"
+    title: "Humans Align with AI during Interaction"
+    excerpt: "AI is assimilating human beings."
+    url: "/research/project-b/"
     btn_label: "Read more"
     btn_class: "btn--primary"
 ---
