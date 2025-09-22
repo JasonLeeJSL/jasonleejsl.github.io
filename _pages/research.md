@@ -12,6 +12,6 @@ classes: wide             # ← 拉宽内容区
 {%- assign projects = site.research | sort: "date" | reverse -%}
 <div class="grid__wrapper">
 {%- for post in projects -%}
-  {%- include archive-single.html type="grid" -%}
+  {%- include archive-single.html -%}
 {%- endfor -%}
 </div>
