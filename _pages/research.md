@@ -1,10 +1,8 @@
 ---
 title: "Research Projects"
 permalink: /research/
-layout: archive
+layout: splash
 author_profile: true
-entries_layout: grid      # ← 网格卡片
-classes: wide             # ← 拉宽内容区
 ---
 
 
