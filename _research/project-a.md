@@ -7,7 +7,6 @@ collection: research
 header:
   teaser: Project_Prosocial.png
   overlay_image: Project_Prosocial.png
-  overlay_filter: 1   # 透明度 (0~1)
 ---
 
 ## Background and Motivation  
