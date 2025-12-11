@@ -16,7 +16,7 @@ Bio
 
 I am currently a Ph.D. candidate at the [AI4SG Lab](https://www.ai4sg.org/about), in the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/), advised by [Prof. Yi-Chieh Lee](https://www.yclee.net/). I am also honored to collaborate with [Prof. Renwen Zhang](https://renwenzhang.com/), [Prof. Vera Q. Liao](https://qveraliao.com/), and [Dr. Zicheng Zhu](https://www.zicheng-zhu.com/). Before that, I completed a dual-degree program, earning bachelor degrees from [University of Illinois Urbana-Champaign](https://illinois.edu/)(*the Highest Honors Degree*) and [Zhejiang University](https://www.zju.edu.cn/).
 
-At present, I am focusing on topics about responsible AI especially uncovering the subtle influence on human users from modern AI. I'm also working on human-AI collaboration, and promoting prosociality in HCI to build a harmonious Human-AI society.
+At present, I am focusing on topics about responsible AI, especially uncovering the subtle influences of modern AI on human users. I'm also working on human-AI collaboration, and promoting prosociality in HCI to build a harmonious Human-AI society.
 
 News
 =====
