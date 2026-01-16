@@ -20,10 +20,11 @@ At present, I am focusing on topics about responsible AI, especially uncovering 
 
 News
 =====
+* Jan. 2025: Three papers have ben accepted by CHI 2026! Thanks and congrats to my collaborators! See you in Barcelona.
 * Sept. 2025: One paper has been accepted by International Journal of Human-Computer Studies (IJHCS).
 * Aug. 2025: One paper has been accepted by CSCW 2025.
 * Mar. 2025: Our CHI2025 paper "As Confidence Aligns: Understanding the Effect of AI Confidence on Human Self-confidence in Human-AI Decision Making" has been selected for a Best Paper Honorable Mention recognition at CHI 2025!
-* Jan. 2025: Three papers have been accepted by CHI2025! Thanks and congrats to my collaborators!
+* Jan. 2025: Three papers have been accepted by CHI 2025! Thanks and congrats to my collaborators!
 * Jan. 2025: One paper has been accepted for presentation in the 75th ICA Conference!
 * Nov. 2023: I have passed my QE with committee: [Prof. Chua Tat-Seng​](https://www.chuatatseng.com/) and [Prof. Brian Y. Lim](https://www.brianlim.net/).
 
