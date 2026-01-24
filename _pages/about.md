@@ -30,6 +30,7 @@ News
 
 Services
 =====
+* Associate Chair of CHI 2026 Posters
 * Program Committee of IUI 2026
 * Served as reviewer for CHI 2025, CHI 2025 LBW, IJHCI, TiiS, ICHEC 2025, CHI 2026
 
