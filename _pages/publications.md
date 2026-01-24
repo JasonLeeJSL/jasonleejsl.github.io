@@ -12,6 +12,25 @@ header:
 ### Peer Reviewed
 <ul class="pub-list">
 <li>
+  <strong>AI-exhibited Personality Traits Can Shape Human Self-concept through Conversations</strong><br>
+  <span><strong>Jingshu Li</strong>, Tianqi Song, Nattapat Boonprakong, Zicheng Zhu, Yitian Yang, Yi-Chieh Lee</span><br>
+  <em>CHI</em>, 2026. 
+  <a href="https://www.arxiv.org/abs/2601.12727">Link</a>·
+</li>
+
+<li>
+  <strong>Can AI be a Social Buffer? Investigating the Effect of AI-assisted Cognitive Reappraisal and Narrative Perspectives on Managing Difficult Workplace Conversations over Email</strong><br>
+  <span>Chi-Lan Yang, Jing Li, Xuhui Chang, <strong>Jingshu Li</strong>, Koji Yatani, Yi-Chieh Lee</span><br>
+  <em>CHI</em>, 2026. 
+</li>
+
+<li>
+  <strong>Understanding Older Adults’ Experiences of Support, Concerns, and Risks from Kinship-Role AI-Generated Influencers</strong><br>
+  <span>Tianqi Song, Black Sun, <strong>Jingshu Li</strong>, Han Li, Chi-Lan Yang, Yi-Chieh Lee</span><br>
+  <em>CHI</em>, 2026. 
+</li>
+  
+<li>
   <strong>How Animal-Persona Chatbots Enhance Empathy and Positive Attitudes toward Animals</strong><br>
   <span><strong>Jingshu Li</strong>, Aaditya Patwari, Yi-Chieh Lee</span><br>
   <em> International Journal of Human-Computer Studies </em>, 2025. 
