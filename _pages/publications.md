@@ -9,13 +9,12 @@ header:
   overlay_filter: 0.3
 ---
 
-### Peer Reviewed
 <ul class="pub-list">
 <li>
   <strong>AI-exhibited Personality Traits Can Shape Human Self-concept through Conversations</strong><br>
   <span><strong>Jingshu Li</strong>, Tianqi Song, Nattapat Boonprakong, Zicheng Zhu, Yitian Yang, Yi-Chieh Lee</span><br>
   <em>CHI</em>, 2026. 
-  <a href="https://www.arxiv.org/abs/2601.12727">Link</a>·
+  <a href="https://www.arxiv.org/abs/2601.12727">Preprint</a>·
 </li>
 
 <li>
@@ -28,17 +27,21 @@ header:
   <strong>Understanding Older Adults’ Experiences of Support, Concerns, and Risks from Kinship-Role AI-Generated Influencers</strong><br>
   <span>Tianqi Song, Black Sun, <strong>Jingshu Li</strong>, Han Li, Chi-Lan Yang, Yi-Chieh Lee</span><br>
   <em>CHI</em>, 2026. 
+  <a href="https://arxiv.org/abs/2602.22993">Preprint</a>·
 </li>
   
 <li>
   <strong>How Animal-Persona Chatbots Enhance Empathy and Positive Attitudes toward Animals</strong><br>
   <span><strong>Jingshu Li</strong>, Aaditya Patwari, Yi-Chieh Lee</span><br>
   <em> International Journal of Human-Computer Studies </em>, 2025. 
+  <a href="https://doi.org/10.1016/j.ijhcs.2025.103647">DOI</a>·
 </li>
+
 <li>
   <strong>Exploring the Effects of Chatbot Anthropomorphism and Human Empathy on Human Prosocial Behavior Toward Chatbots</strong><br>
   <span><strong>Jingshu Li</strong>, Zicheng Zhu, Renwen Zhang, Yi-Chieh Lee</span><br>
   <em>CSCW</em>, 2025. 
+  <a href="https://doi.org/10.1145/3757596">DOI</a>·
 </li>
 
 <li>
