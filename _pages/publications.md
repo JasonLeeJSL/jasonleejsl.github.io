@@ -14,6 +14,7 @@ header:
   <strong>AI-exhibited Personality Traits Can Shape Human Self-concept through Conversations</strong><br>
   <span><strong>Jingshu Li</strong>, Tianqi Song, Nattapat Boonprakong, Zicheng Zhu, Yitian Yang, Yi-Chieh Lee</span><br>
   <em>CHI</em>, 2026. 
+  <span><strong>Best Paper Honorable Mention</strong></span><br>
   <a href="https://www.arxiv.org/abs/2601.12727">Preprint</a>·
 </li>
 
@@ -69,7 +70,7 @@ header:
   <strong>As Confidence Aligns: Understanding the Effect of AI Confidence on Human Self-confidence in Human-AI Decision Making</strong><br>
   <span><strong>Jingshu Li</strong>, Yitian Yang, Q. Vera Liao, Junti Zhang, Yi-Chieh Lee</span><br>
   <em>CHI</em>, 2025. 
-  <span><strong>Best Paper, Honorable Mention</strong></span><br>
+  <span><strong>Best Paper Honorable Mention</strong></span><br>
   <a href="https://doi.org/10.1145/3706598.3713336">DOI</a>·
 </li>
 
