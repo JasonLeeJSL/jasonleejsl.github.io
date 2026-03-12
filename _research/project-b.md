@@ -18,17 +18,17 @@ This project focuses on **human alignment with AI during interaction**, and has 
 ---
 
 ## Study 1: Alignment of AI Personality Traits and Users’ Self-concept  
-In this ongoing study, we found that when users converse with LLMs that exhibit distinct personality traits, their self-concept gradually shifts toward those traits. This alignment effect is especially pronounced when conversations involve personal topics and are prolonged.  
+In this study (published at **CHI 2026**, Best Paper Honorable Mention), we found that when users converse with LLMs that exhibit distinct personality traits, their self-concept gradually shifts toward those traits. This alignment effect is especially pronounced when conversations involve personal topics and are prolonged.  
 
 On the one hand, alignment enhances conversational enjoyment and the sense of a “shared reality.” On the other hand, it risks producing homogenization at both individual and group levels, undermining diversity and inclusivity.  
 
 This work is the first to systematically uncover how AI’s personality influences human self-concept, and it emphasizes the need to carefully balance experiential benefits against potential risks when designing conversational AI.  
-👉 *Preprint version is coming soon*  
+👉 *Read the CHI paper here:* [AI-exhibited Personality Traits Can Shape Human Self-concept through Conversations](https://www.arxiv.org/abs/2601.12727)
 
 ---
 
 ## Study 2: Alignment of AI Confidence and Users’ Self-confidence  
-In another study (published at **CHI 2025**), we focused on human–AI collaboration in decision-making. The experiment shows that users’ self-confidence is influenced by and aligned with the confidence expressed by AI. Such alignment persists even after AI is no longer involved.  
+In another study (published at **CHI 2025**, Best Paper Honorable Mention), we focused on human–AI collaboration in decision-making. The experiment shows that users’ self-confidence is influenced by and aligned with the confidence expressed by AI. Such alignment persists even after AI is no longer involved.  
 
 This alignment alters users’ confidence calibration, potentially causing over-reliance on AI or underestimation of their own abilities. Further results reveal that real-time feedback and different collaboration modes (e.g., AI as advisor, peer collaborator, or decision executor) can partially mitigate these effects.  
 
