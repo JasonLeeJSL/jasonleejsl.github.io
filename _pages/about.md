@@ -10,6 +10,16 @@ header:
   overlay_image: Hero_Figure.jpg
   overlay_filter: 0.3
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7430LQ514Y"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7430LQ514Y');
+</script>
+
 
 Bio
 =====
