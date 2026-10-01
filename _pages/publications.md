@@ -9,6 +9,8 @@ header:
   overlay_filter: 0.3
 ---
 
+## Conference Papers
+
 <ul class="pub-list">
 <li>
   <strong>AI-exhibited Personality Traits Can Shape Human Self-concept through Conversations</strong><br>
@@ -26,16 +28,9 @@ header:
 
 <li>
   <strong>Understanding Older Adults’ Experiences of Support, Concerns, and Risks from Kinship-Role AI-Generated Influencers</strong><br>
-  <span>Tianqi Song, Black Sun, <strong>Jingshu Li</strong>, Han Li, Chi-Lan Yang, Yi-Chieh Lee</span><br>
+  <span>Tianqi Song, Black Sun, <strong>Jingshu Li</strong>, Han Li, Chi-Lan Yang, Yijia Xu, Yi-Chieh Lee</span><br>
   <em>CHI</em>, 2026. 
   <a href="https://arxiv.org/abs/2602.22993">Preprint</a>·
-</li>
-  
-<li>
-  <strong>How Animal-Persona Chatbots Enhance Empathy and Positive Attitudes toward Animals</strong><br>
-  <span><strong>Jingshu Li</strong>, Aaditya Patwari, Yi-Chieh Lee</span><br>
-  <em> International Journal of Human-Computer Studies </em>, 2025. 
-  <a href="https://doi.org/10.1016/j.ijhcs.2025.103647">DOI</a>·
 </li>
 
 <li>
@@ -82,3 +77,24 @@ header:
 </li>
 </ul>
 
+## Journal Articles
+
+<ul class="pub-list">
+<li>
+  <strong>How Animal-Persona Chatbots Enhance Empathy and Positive Attitudes toward Animals</strong><br>
+  <span><strong>Jingshu Li</strong>, Aaditya Patwari, Yi-Chieh Lee</span><br>
+  <em>International Journal of Human-Computer Studies</em>, 2025.<br>
+  <a href="https://doi.org/10.1016/j.ijhcs.2025.103647">DOI</a>
+</li>
+</ul>
+
+## Book Chapters
+
+<ul class="pub-list">
+<li>
+  <strong>Can AI Be Fair?</strong><br>
+  <span>Yi-Chieh Lee, <strong>Jingshu Li</strong>, Renwen Zhang, Nan Liu</span><br>
+  In Daniele Quercia and Marios Constantinides (Eds.), <em>Operationalizing Responsible AI</em> (1st ed., pp. 1–24). Cambridge University Press, 2026.<br>
+  <a href="https://doi.org/10.1017/9781009625180.002">DOI</a>
+</li>
+</ul>

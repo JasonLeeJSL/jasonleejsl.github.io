@@ -41,12 +41,14 @@ News
 
 Services
 =====
-* Associate Chair of CHI 2026 Posters
-* Program Committee of IUI 2026
-* Served as reviewer for CHI 2025, CHI 2025 LBW, IJHCI, TiiS, ICHEC 2025, CHI 2026, MobileHCI 2026
+* Poster Associate Chair, ACM CHI 2026
+* Program Committee Member, ACM IUI 2026 & 2027
+* Conference reviewer: CHI 2025 & 2026, CHI 2025 LBW, IUI, ICHEC 2025, MobileHCI 2026
+* Journal reviewer: International Journal of Human-Computer Interaction (IJHCI); ACM Transactions on Interactive Intelligent Systems (TiiS); International Journal of Human-Computer Studies (IJHCS); Computers in Human Behavior; Technology, Mind, and Behavior
 
 Awards
 =====
+* Dean’s Graduate Research Excellence Award, School of Computing, NUS, 2026
 * Best Paper Honorable Mention, ACM CHI, 2026
 * Best Paper Honorable Mention, ACM CHI, 2025
 * Special Recognition for Outstanding Reviewers, ACM CHI, 2025 & 2026
