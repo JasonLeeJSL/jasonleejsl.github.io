@@ -24,7 +24,7 @@ header:
 Bio
 =====
 
-I am currently a Ph.D. candidate at the [AI4SG Lab](https://www.ai4sg.org/about), in the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/), advised by [Prof. Yi-Chieh Lee](https://www.yclee.net/). I am also honored to collaborate with [Prof. Renwen Zhang](https://renwenzhang.com/), [Prof. Q. Vera Liao](https://qveraliao.com/), and [Dr. Zicheng Zhu](https://www.zicheng-zhu.com/). Before that, I completed a dual-degree program, earning bachelor degrees from [University of Illinois Urbana-Champaign](https://illinois.edu/)(*the Highest Honors Degree*) and [Zhejiang University](https://www.zju.edu.cn/).
+I am currently a Ph.D. candidate at the [AI4SG Lab](https://www.ai4sg.org/about), in the [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/), advised by [Prof. Yi-Chieh Lee](https://www.yclee.net/), with expected completion in December 2026. I am also a Research Assistant at NUS School of Computing and will join as a Research Fellow (Postdoctoral Researcher) in December 2026. I am honored to collaborate with [Prof. Renwen Zhang](https://renwenzhang.com/), [Prof. Q. Vera Liao](https://qveraliao.com/), and [Dr. Zicheng Zhu](https://www.zicheng-zhu.com/). Before that, I completed a dual-degree program, earning bachelor's degrees from [University of Illinois Urbana-Champaign](https://illinois.edu/) (*Highest Honors*) and [Zhejiang University](https://www.zju.edu.cn/).
 
 At present, I am focusing on topics about human-AI interaction, especially uncovering the (subtle) social influences of modern AI (as social actors) on human users' cognition and behavior. I'm also working on human-AI collaboration, and promoting prosociality in HCI to build a harmonious human-AI society.
 
@@ -44,7 +44,7 @@ Services
 * Poster Associate Chair, ACM CHI 2026
 * Program Committee Member, ACM IUI 2026 & 2027
 * Conference reviewer: CHI 2025 & 2026, CHI 2025 LBW, IUI, ICHEC 2025, MobileHCI 2026
-* Journal reviewer: International Journal of Human-Computer Interaction (IJHCI); ACM Transactions on Interactive Intelligent Systems (TiiS); International Journal of Human-Computer Studies (IJHCS); Computers in Human Behavior; Technology, Mind, and Behavior
+* Journal reviewer: ACM Transactions on Computer-Human Interaction (TOCHI); International Journal of Human-Computer Interaction (IJHCI); ACM Transactions on Interactive Intelligent Systems (TiiS); International Journal of Human-Computer Studies (IJHCS); Computers in Human Behavior; Technology, Mind, and Behavior
 
 Awards
 =====

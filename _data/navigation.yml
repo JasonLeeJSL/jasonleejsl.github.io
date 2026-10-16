@@ -21,6 +21,6 @@ main:
   - title: "Research Projects"
     url: /research/   
   - title: "CV"
-    url: 'http://jasonleejsl.github.io/files/Resume-Full-Li Jingshu.pdf' #/cv/
+    url: /cv/
   #- title: "Guide"
   #  url: /markdown/
